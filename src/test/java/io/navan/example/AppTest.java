@@ -1,4 +1,4 @@
-package io.navan.Java8_Examples;
+package io.navan.example;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
